@@ -91,7 +91,7 @@ You have been hired to create a website for at company. It has to have the struc
 - use div tags only
 - use semantic tags
   
-## Exercise optinal 1
+## Exercise optional 1
 
 Play the game called CSS Diner : https://flukeout.github.io/
 
