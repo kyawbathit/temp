@@ -11,13 +11,13 @@ Create web page where you introduce yourself. It should only have a headline, an
     <head>
     <title>About me</title>
     </head>
-    
+
     <body>
 
     </body>
 </html>
 ```
-- Accomplish the above without styling any of the elements
+- Accomplish the above task without styling any of the elements
 - Add inline styles.
 - Add a reference to an external css file and transfer the styling to this file.
 
