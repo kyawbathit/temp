@@ -11,7 +11,7 @@ Create web page where you introduce yourself. It should only have a headline, an
 
 ## Exercise 2
 
-Create and index.html with the follow hierachy:
+Create and index.html with the follow hierarchy:
 
 ```
 <div id="container">
@@ -46,6 +46,8 @@ Create and index.html with the follow hierachy:
 </div>
 
 ```
+Describe the hierarchy to the person sitting next to you. Draw a visual representation of the hierarchy
+
 Create an external main.css file and add a reference in the index.html.
 Do not add ids or classes to the tags. Now add the following specific styles:
 
@@ -56,7 +58,7 @@ Do not add ids or classes to the tags. Now add the following specific styles:
 - select the elements that have a class of 'cool-style'. Add some cool styling. 
 
 
-Now add your own improved styles so the hierachy becomes visible/obvious to the viewer.
+Now add your own improved styles so the hierarchy becomes visible/obvious to the viewer.
   
 ## Exercise 4
 
