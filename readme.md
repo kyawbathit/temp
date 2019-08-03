@@ -8,6 +8,7 @@ Create web page where you introduce yourself. It should only have a headline, an
 - Add inline styles.
 - Add a reference to an external css file and transfer the styling to this file.
 
+
 ## Exercise 2
 
 Create and index.html with the follow hierarchy:
@@ -74,4 +75,13 @@ You have been hired to create a website for at company. It has to have the struc
 
 - use div tags only
 - use semantic tags
+  
+## Exercise extra 1
+
+Play the game called CSS Diner : https://flukeout.github.io/
+
+## Exercise extra 2
+
+Learn flex-box!
+Go to https://flexboxfroggy.com/
   
