@@ -91,12 +91,12 @@ You have been hired to create a website for at company. It has to have the struc
 - use div tags only
 - use semantic tags
   
-## Exercise extra 1
+## Exercise optinal 1
 
 Play the game called CSS Diner : https://flukeout.github.io/
 
-## Exercise extra 2
+## Exercise optional 2
 
-Learn flex-box!
+Get a head start on week 2. Learn flex-box!
 Go to https://flexboxfroggy.com/
   
