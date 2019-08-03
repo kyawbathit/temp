@@ -8,7 +8,6 @@ Create web page where you introduce yourself. It should only have a headline, an
 - Add inline styles.
 - Add a reference to an external css file and transfer the styling to this file.
 
-
 ## Exercise 2
 
 Create and index.html with the follow hierarchy:
@@ -59,7 +58,14 @@ Do not add ids or classes to the tags. Now add the following specific styles:
 
 
 Now add your own improved styles so the hierarchy becomes visible/obvious to the viewer.
-  
+
+## Exercise 3
+
+Create an index.html with elements in the depicted hierarchy. Add ids and classes.
+
+![alt text](https://github.com/senner007/temp/blob/master/Hierarchy-1.png "Logo Title Text 1")
+
+
 ## Exercise 4
 
 You have been hired to create a website for at company. It has to have the structure that is depicted below. 
