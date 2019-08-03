@@ -32,30 +32,30 @@ Create and index.html with the follow hierarchy:
 <div id="container">
     <div>
         <p>
-            First p tag in first div child
+            First p element in first div child
         </p>
         <p class="cool-style">
-            Second p tag in first div child
+            Second p element in first div child
         </p>
     </div>
     <div>
         <ul>
             <li>
-                First li tag in second div child
+                First li element in second div child
             </li>
             <li>
-                Second li tag in second div child
+                Second li element in second div child
             </li>
         </ul>
     </div>
     <div>
         <ul>
             <li>
-                Li tag in third div child
+                Li element in third div child
             </li>
         </ul>
         <p class="cool-style">
-            P tag in third div child
+            P element in third div child
         </p>
     </div>
 </div>
@@ -66,10 +66,10 @@ Describe the hierarchy to the person sitting next to you. Draw a visual represen
 Create an external main.css file and add a reference in the index.html.
 Do not add ids or classes to the tags. Now add the following specific styles:
 
-- select all tags. Add blue font color
-- select all li tags. Add red font color
-- select the second p tag in the first div child. Add green color to the font. Hint: use the nth-child selector 
-- select the li tag in the third div child. remove the dot
+- select all elements. Add blue font color
+- select all li elements. Add red font color
+- select the second p element in the first div child. Add green color to the font. Hint: use the nth-child selector 
+- select the li element in the third div child. remove the dot
 - select the elements that have a class of 'cool-style'. Add some cool styling. 
 
 
