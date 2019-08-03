@@ -68,9 +68,10 @@ Create an index.html with elements in the depicted hierarchy. Add ids and classe
 
 ## Exercise 4
 
-You have been hired to create a website for at company. It has to have the structure that is depicted below. 
+You have been hired to create a website for at company. It has to have the structure that is depicted below. Hint : use the float property
 
 ![alt text](https://github.com/senner007/temp/blob/master/img_sem_elements.png "Logo Title Text 1")
 
 - use div tags only
 - use semantic tags
+  
