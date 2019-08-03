@@ -3,11 +3,26 @@
 
 ## Exercise 1
 Create web page where you introduce yourself. It should only have a headline, an image and some text.
+- Create an index.html file with only the basic structure: 
 
+``` 
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>About me</title>
+    </head>
+    
+    <body>
+
+    </body>
+</html>
+```
 - Accomplish the above without styling any of the elements
 - Add inline styles.
 - Add a reference to an external css file and transfer the styling to this file.
 
+Does the image have an alt attribute? If not, add one.
+[The alt Attribute](https://www.w3schools.com/html/html_images.asp)
 
 ## Exercise 2
 
